@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hafiz mahad salee,</h1>
+<h1 align="center">Hi 👋, I'm hafiz mahad saleem</h1>
 <h3 align="center">Dream it chase it code it</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.1NhJ6IZqePOlWgMQsHeDDAHaEI?pid=ImgDet&rs=1">
 
