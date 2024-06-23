@@ -1,6 +1,6 @@
 # Hello, I'm Hafiz Mahad Saleem! 👋
 
-Welcome to my corner of GitHub! I'm a DevOps Engineer with a passion for building and optimizing scalable, secure, and efficient infrastructure. With 1.5 years of hands-on experience in the DevOps realm, I've honed my skills in CI/CD, cloud computing, container orchestration, and much more.
+Welcome to my GitHub profile! I am a proactive DevOps Engineer passionate about automating workflows, optimizing cloud infrastructure, and solving complex challenges through innovative solutions. With 1.5 years of hands-on experience, I thrive on creating scalable, efficient, and secure systems.
 
 ---
 
@@ -12,6 +12,8 @@ Ever since I wrote my first script, I've been fascinated by the power of automat
 - 🎓 **Education**: Bachelor's in Computer Science from the University of South Asia
 - 📜 **Certification**: Microsoft Certified: Azure Administrator Associate
 - 💡 **Current Focus**: Mastering Kubernetes and diving deeper into cloud and security
+- 💼 **Current Role**: DevOps Engineer at Ccjk Technologies
+
 
 ---
 
@@ -84,15 +86,15 @@ At Ccjk Technologies, I play a pivotal role in enhancing and maintaining our Dev
 
 ---
 
-## 📫 Let's Connect!
+## 🌐 Let's Connect!
 
-I'm always eager to connect with fellow tech enthusiasts, potential collaborators, and future employers. Feel free to explore my projects and get in touch:
+I am passionate about technology and love tackling challenges head-on. Let's collaborate on innovative projects and build secure, scalable solutions together!
 
-- **GitHub**: [Hafiz Mahad Saleem's GitHub](https://github.com/hafizmahadsaleem)
+- **GitHub**: [Hafiz Mahad Saleem](https://github.com/hafizmahadsaleem)
 - **LinkedIn**: [Hafiz Mahad Saleem on LinkedIn](https://www.linkedin.com/in/hafizmahadsaleem)
 - **Email**: [hafizmahadsaleem@gmail.com](mailto:hafizmahadsaleem@gmail.com)
 - **Phone**: (+92) 313-418-7877
 
 ---
 
-Thank you for visiting my profile! Let's build and innovate together.
+Thank you for visiting my profile! Let's solve problems and innovate with technology.
