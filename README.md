@@ -91,7 +91,7 @@ At Ccjk Technologies, I play a pivotal role in enhancing and maintaining our Dev
 I am passionate about technology and love tackling challenges head-on. Let's collaborate on innovative projects and build secure, scalable solutions together!
 
 - **GitHub**: [Hafiz Mahad Saleem](https://github.com/hafizmahadsaleem)
-- **LinkedIn**: [Hafiz Mahad Saleem on LinkedIn](www.linkedin.com/in/hafizmahad)
+- **LinkedIn**: [Hafiz Mahad Saleem on LinkedIn](https://www.linkedin.com/in/hafizmahad)
 - **Email**: [hafizmahadsaleem@gmail.com](mailto:hafizmahadsaleem@gmail.com)
 - **Phone**: (+92) 313-418-7877
 
