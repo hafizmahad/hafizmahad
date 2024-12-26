@@ -94,6 +94,7 @@ I am passionate about technology and love tackling challenges head-on. Let's col
 - **LinkedIn**: [Hafiz Mahad Saleem on LinkedIn](https://www.linkedin.com/in/hafizmahad)
 - **Email**: [hafizmahadsaleem@gmail.com](mailto:hafizmahadsaleem@gmail.com)
 - **Phone**: (+92) 313-418-7877
+- **Portfolio**:https://roaring-quokka-cc3d68.netlify.app
 
 ---
 
